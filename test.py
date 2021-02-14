@@ -1,0 +1,2 @@
+print('bisa')
+print('ok')
